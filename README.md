@@ -1,6 +1,6 @@
 # Olivier Heckendorn
 
-Engineer (INPG, ENSERG-ENSIMAG, systems architecture) and independent AI consultant based in France.
+Engineer (INPG, ENSERG-ENSIMAG, systems architecture) and independent consultant based in France.
 
 A life lived as an archipelago: engineer and artist. From building early government websites in the 90s, to luxury photography (Cartier, Chanel, Dior), to teaching AI today; 30 years translating technology for human audiences.
 
