@@ -10,7 +10,7 @@ Building **[Token Brain](https://github.com/token-brain)** — an open-source in
 
 | Component | What it does | Repo |
 |-----------|-------------|------|
-| **Second Brain Vault** | Personal document vault backed by Cloudflare R2 | [mcp-second-brain-R2](https://github.com/token-brain/mcp-second-brain-R2) |
+| **Second Brain Vault MCP ** | Personal document vault backed by Cloudflare R2 and MCP server | [mcp-second-brain-R2](https://github.com/token-brain/mcp-second-brain-R2) |
 | **GitHub Issues MCP** | Full GitHub Issues management through Claude | [mcp-github-issues](https://github.com/token-brain/mcp-github-issues) |
 
 Writing about AI, cognition, and the space between carbon and silicon on **[olivierh.bearblog.dev](https://olivierh.bearblog.dev)**.
